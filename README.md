@@ -2,7 +2,7 @@
 
 A Beautiful Music Player Built Using Flutter!
 
-Live On The PlayStore = https://play.google.com/store/apps/details?id=in.selvasoft.beats
+Bug Fixed Music Player 
 
 Ios Support Soon
 # androidx problems in flute library when compiling app?
